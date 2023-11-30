@@ -1,0 +1,109 @@
+Hadi Choopan    MENS_OPEN
+Derek Lunsford  MENS_OPEN
+Nick Walker MENS_OPEN
+Brandon Curry   MENS_OPEN
+Mamdouh Elssbiay    MENS_OPEN
+Samson Dauda    MENS_OPEN
+Brett Wilkin    MENS_OPEN
+Behrooz Tabani  MENS_OPEN
+Tony Burton MENS_OPEN
+Ross Flanigan   MENS_OPEN
+Iain Valliere   MENS_OPEN
+Michal Krizanek MENS_OPEN
+Phil Clahar MENS_OPEN
+Andrea Presti   MENS_OPEN
+Hassan Mostafa  MENS_OPEN
+Justin Shier    MENS_OPEN
+Roman Fritz MENS_OPEN
+Hunter Labrada  MENS_OPEN
+Chinedu Andrew Obiekea  MENS_OPEN
+Kamal Elgargni  MENS_OPEN
+Nathan De Asha  MENS_OPEN
+Regan Grimes    MENS_OPEN
+Theo Leguerrier MENS_OPEN
+Charles Griffen MENS_OPEN
+Woilid Baatout  MENS_CLASSIC
+Chris Bumstead  MENS_CLASSIC
+Ramon Rocha Queiroz MENS_CLASSIC
+Urs Kalecinski  MENS_CLASSIC
+Mike Sommerfeld MENS_CLASSIC
+Eric Brown  MENS_CLASSIC
+Daniil Famponte MENS_CLASSIC
+Andrei Kozhokar MENS_CLASSIC
+Michael Daboul  MENS_CLASSIC
+German Pastor   MENS_CLASSIC
+Eric Wildberger Lisboa  MENS_CLASSIC
+Samuel Paquin   MENS_CLASSIC
+Damien Patrick  MENS_CLASSIC
+Damian Kuffel   MENS_CLASSIC
+Vahid Badpei    MENS_CLASSIC
+Laszlo Kiraly   MENS_CLASSIC
+Antoine Loth    MENS_CLASSIC
+Carlos Dommar   MENS_CLASSIC
+Fabio Junio Ramos Vale  MENS_CLASSIC
+John Le MENS_CLASSIC
+Marcus Perry    MENS_CLASSIC
+Diego Alejandro Galindo MENS_CLASSIC
+Matthew Greggo  MENS_CLASSIC
+Stephane Matala MENS_CLASSIC
+Jared Thompson  MENS_CLASSIC
+Jae Hun Park    MENS_CLASSIC
+Alejandro Cambronero    MENS_CLASSIC
+Eduardo Oliveira    MENS_CLASSIC
+Shicheng Jin    MENS_CLASSIC
+Shi Tian Wang   MENS_CLASSIC
+Wesley Vissers  MENS_CLASSIC
+Christopher Ziller  MENS_CLASSIC
+Gabriel Zancanelli  MENS_CLASSIC
+Courage Opara   MENS_CLASSIC
+Terrence Ruffin MENS_CLASSIC
+Maxime Yedess   MENS_CLASSIC
+Breon Ansley    MENS_CLASSIC
+Hasan Alibrahim MENS_CLASSIC
+Junior Javorski MENS_CLASSIC
+Mehdi Kabbadj   MENS_PHYSIQUE
+Ming Chieh Tsai MENS_PHYSIQUE
+Kahlia Ramzi    MENS_PHYSIQUE
+Corey Morris    MENS_PHYSIQUE
+Erin Banks  MENS_PHYSIQUE
+Brandon Hendrickson MENS_PHYSIQUE
+Diogo Montenegro    MENS_PHYSIQUE
+Mahmood Al-Maghrabi MENS_PHYSIQUE
+Emanuel Hunter  MENS_PHYSIQUE
+Mauro Fialho Garcia, Jr MENS_PHYSIQUE
+Carlos DeOliveira   MENS_PHYSIQUE
+Benquil Marigny MENS_PHYSIQUE
+Riccardo Croci  MENS_PHYSIQUE
+Derrick Stevenson   MENS_PHYSIQUE
+Ryan Terry  MENS_PHYSIQUE
+Emmanuel Costa  MENS_PHYSIQUE
+Daniel Ammons   MENS_PHYSIQUE
+Andre Ferguson  MENS_PHYSIQUE
+Vinicius Mateus Veiro Lima  MENS_PHYSIQUE
+Vitor Chaves    MENS_PHYSIQUE
+Joseph Lee  MENS_PHYSIQUE
+Victor Manuel Ramirez Chavez    MENS_PHYSIQUE
+Bhuwan Chauhan  MENS_PHYSIQUE
+Sidy Pouye  MENS_PHYSIQUE
+Yoon Sung Lee   MENS_PHYSIQUE
+Jason Huynh MENS_PHYSIQUE
+Anderson Arruda MENS_PHYSIQUE
+Jeremy Potvin   MENS_PHYSIQUE
+Drew Cullen MENS_PHYSIQUE
+Ismael Dominquez    MENS_PHYSIQUE
+Arya Saffaie    MENS_PHYSIQUE
+Rodrigue Chesnier   MENS_PHYSIQUE
+Febo Gambacorta MENS_PHYSIQUE
+Rafael Oliveira MENS_PHYSIQUE
+Jeremiah Maxey  MENS_PHYSIQUE
+Joven Sagabain  MENS_PHYSIQUE
+Edvan Palmeira  MENS_PHYSIQUE
+Ali Bilal   MENS_PHYSIQUE
+Ayoub Sulayman  MENS_PHYSIQUE
+Charjo Grant    MENS_PHYSIQUE
+Reubeb Glass    MENS_PHYSIQUE
+Adeyemi Awoyemi MENS_PHYSIQUE
+Kyron Holden    MENS_PHYSIQUE
+Emile Walker    MENS_PHYSIQUE
+Jeremy Buendia  MENS_PHYSIQUE
+JunHo Lee   MENS_PHYSIQUE

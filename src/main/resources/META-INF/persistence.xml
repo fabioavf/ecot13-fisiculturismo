@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+    <persistence-unit name="fisiculturismoPU" transaction-type="RESOURCE_LOCAL">
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+        <class>br.edu.unifei.ecot13.model.Academia</class>
+        <class>br.edu.unifei.ecot13.model.Acessorio</class>
+        <class>br.edu.unifei.ecot13.model.Arbitro</class>
+        <class>br.edu.unifei.ecot13.model.Atleta</class>
+        <class>br.edu.unifei.ecot13.model.Bulking</class>
+        <class>br.edu.unifei.ecot13.model.Campeonato</class>
+        <class>br.edu.unifei.ecot13.model.Carboidrato</class>
+        <class>br.edu.unifei.ecot13.model.Cutting</class>
+        <class>br.edu.unifei.ecot13.model.Dieta</class>
+        <class>br.edu.unifei.ecot13.model.DietaBulking</class>
+        <class>br.edu.unifei.ecot13.model.DietaCutting</class>
+        <class>br.edu.unifei.ecot13.model.Equipamento</class>
+        <class>br.edu.unifei.ecot13.model.Fase</class>
+        <class>br.edu.unifei.ecot13.model.Gordura</class>
+        <class>br.edu.unifei.ecot13.model.Haltere</class>
+        <class>br.edu.unifei.ecot13.model.Macronutriente</class>
+        <class>br.edu.unifei.ecot13.model.Maquina</class>
+        <class>br.edu.unifei.ecot13.model.Pessoa</class>
+        <class>br.edu.unifei.ecot13.model.Proteina</class>
+        <class>br.edu.unifei.ecot13.model.Treinador</class>
+        <properties>
+            <property name="javax.persistence.jdbc.url"
+                value="jdbc:mysql://localhost:3306/fisiculturismo?useTimezone=true&amp;serverTimezone=UTC" />
+            <property name="javax.persistence.jdbc.user" value="fisiculturismo" />
+            <property name="javax.persistence.jdbc.driver" value="org.mariadb.jdbc.Driver" />
+            <property name="javax.persistence.jdbc.password" value="fisiculturismo" />
+            <property name="hibernate.dialect" value="org.hibernate.dialect.MariaDBDialect" />
+            <property name="javax.persistence.schema-generation.database.action"
+                value="create" />
+        </properties>
+    </persistence-unit>
+</persistence>
