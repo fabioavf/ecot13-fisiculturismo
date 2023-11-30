@@ -61,14 +61,16 @@ public class App {
 
         atleta.trocarDeFase();
 
-        entityManager.persist(atleta);
-        entityManager.persist(academia);
         entityManager.persist(arroz);
         entityManager.persist(mel);
         entityManager.persist(frango);
         entityManager.persist(azeite);
         entityManager.persist(dietaBulking);
-        entityManager.persist(dietaCutting);
+        // entityManager.persist(dietaCutting);
+
+        entityManager.persist(academia);
+        entityManager.persist(atleta.getFase());
+        entityManager.persist(atleta);
 
         entityManager.getTransaction().commit();
         entityManager.close();

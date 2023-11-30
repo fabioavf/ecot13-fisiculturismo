@@ -8,7 +8,7 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
-import javax.persistence.OneToMany;
+import javax.persistence.ManyToMany;
 
 import lombok.Data;
 
@@ -20,7 +20,7 @@ public abstract class Dieta implements Serializable {
     private int id;
     private int totalCalorias;
 
-    @OneToMany
+    @ManyToMany
     private List<Macronutriente> alimentos = new ArrayList<Macronutriente>();
 
     public void setAlimentos(List<Macronutriente> alimentos) {

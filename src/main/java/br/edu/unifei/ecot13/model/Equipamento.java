@@ -14,7 +14,7 @@ import lombok.Data;
 public abstract class Equipamento implements Serializable {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private String numeroDeSerie;
+    private int numeroDeSerie;
     private String marca;
     private boolean importado;
 }
