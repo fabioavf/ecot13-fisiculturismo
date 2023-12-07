@@ -75,49 +75,7 @@ public class App {
         entityManager.getTransaction().commit();
         entityManager.close();
         entityManagerFactory.close();
+
+        GUIStarter.main(args);
     }
-
-    // public static void main(String[] args) {
-    // // Setup atleta
-    // Atleta atleta = new Atleta(new Bulking());
-    // atleta.setNome("Fulano");
-    // atleta.setSexo('m');
-    // atleta.setPeso(90);
-    // atleta.setAltura(135);
-    // atleta.setCategoria(CategoriaEnum.MENS_CLASSIC);
-
-    // Academia academia = new Academia();
-    // academia.setNome("CT do Fulano");
-
-    // // Setup alimentos
-    // Carboidrato arroz = new Carboidrato();
-    // arroz.setAcucar(false);
-    // arroz.setQuantidade(8 * atleta.getPeso());
-
-    // Carboidrato mel = new Carboidrato();
-    // mel.setAcucar(true);
-    // mel.setQuantidade(30);
-
-    // Proteina frango = new Proteina();
-    // frango.setOrigem("animal");
-    // frango.setQuantidade(2 * atleta.getPeso());
-
-    // Gordura azeite = new Gordura();
-    // azeite.setQuantidade(0.4f * atleta.getPeso());
-
-    // // Dietas
-    // DietaBulking dietaBulking = new DietaBulking();
-    // dietaBulking.setAlimentos(Arrays.asList(arroz, mel, frango, azeite));
-
-    // System.out.println(dietaBulking.calcularCalorias());
-
-    // DietaCutting dietaCutting = new DietaCutting();
-    // dietaCutting.setAlimentos(Arrays.asList(arroz, mel, frango, azeite));
-
-    // System.out.println(dietaCutting.calcularCalorias());
-
-    // System.out.println(atleta.getFase().getClass().getSimpleName());
-    // atleta.trocarDeFase();
-    // System.out.println(atleta.getFase().getClass().getSimpleName());
-    // }
 }
