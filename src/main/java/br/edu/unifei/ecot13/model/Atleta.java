@@ -23,6 +23,10 @@ public class Atleta extends Pessoa {
     @OneToOne
     private Dieta dieta;
 
+    public Atleta() {
+        this.fase = new Bulking();
+    }
+
     public Atleta(Fase fase) {
         this.fase = fase;
     }
