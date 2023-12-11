@@ -2,7 +2,6 @@ package br.edu.unifei.ecot13;
 
 import java.net.URL;
 
-import br.edu.unifei.ecot13.controller.AtletaController;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;

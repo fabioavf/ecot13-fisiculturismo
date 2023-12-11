@@ -1,8 +1,6 @@
 package br.edu.unifei.ecot13.controller;
 
 import java.net.URL;
-import java.time.LocalDate;
-import java.time.ZoneId;
 import java.sql.Date;
 import java.util.List;
 import java.util.ResourceBundle;

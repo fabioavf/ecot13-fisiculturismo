@@ -32,7 +32,7 @@
             <property name="javax.persistence.jdbc.password" value="fisiculturismo" />
             <property name="hibernate.dialect" value="org.hibernate.dialect.MariaDBDialect" />
             <property name="javax.persistence.schema-generation.database.action"
-                value="none" />
+                value="create" />
         </properties>
     </persistence-unit>
 </persistence>
